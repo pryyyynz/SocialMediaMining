@@ -1,6 +1,4 @@
-Here’s a README file template for your project on **Aspect-Based Sentiment Analysis of LGBTQ+ Tweets**. This includes project description, methodology, setup instructions, and key findings from the paper.
 
----
 
 # Aspect-Based Sentiment Analysis on LGBTQ+ Tweets
 
@@ -75,6 +73,3 @@ This project contributes to understanding the sentiment and topics discussed aro
 - Dataset: [LGBT Tweets on Kaggle](https://www.kaggle.com/datasets/vencerlanz09/lgbt-tweets)
 - Additional references and methodologies are included in the research paper.
 
----
-
-This README template provides a comprehensive overview of your project’s purpose, process, and findings. Let me know if you'd like to add specific code snippets or visualizations!
